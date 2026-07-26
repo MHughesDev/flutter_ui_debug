@@ -1,0 +1,22 @@
+name: flutter_ui_debug_example
+description: Demo application showcasing all flutter_ui_debug features
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ">=3.6.1 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_ui_debug:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
