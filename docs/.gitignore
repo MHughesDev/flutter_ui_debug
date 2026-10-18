@@ -1,0 +1,13 @@
+# Generated documentation
+api/
+*.html
+*.json
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
